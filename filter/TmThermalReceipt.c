@@ -1,5 +1,13 @@
 /**********************************************************************************************************************
  * 
+ * EPSON TM Series Printer Driver with modifications for AutoFeed and AutoCutter
+ * at the end of each print job
+ *
+ * Copyright (c) 2025 RISHIKESHAN SULOCHANA/LAVAKUMAR 🌱 <oss@rishikeshan.com>
+ * பதிப்புரிமை (c) 2025 ரிஷிகேசன் சுலோச்சனா/லவக்குமார் 🌱 <oss@rishikeshan.com>
+ * Copyright (C) 2019 SEIKO EPSON
+ *
+ * Modified version of the following:
  * Epson TM Printer Driver (ESC/POS) for Linux
  * 
  * Copyright (C) Seiko Epson Corporation 2019.
